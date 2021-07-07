@@ -48,8 +48,8 @@
         }
       },
       "displayField": "label",
-      "name": "Action",
-      "description": null,
+      "name": "⚛️ Action",
+      "description": "a component for managing buttons",
       "fields": [
         {
           "id": "label",
@@ -205,8 +205,8 @@
         }
       },
       "displayField": "title",
-      "name": "Blog",
-      "description": null,
+      "name": "🎛️ Blog settings",
+      "description": "",
       "fields": [
         {
           "id": "title",
@@ -300,8 +300,8 @@
         }
       },
       "displayField": "question",
-      "name": "FAQ Item",
-      "description": null,
+      "name": "⚛️ FAQ Item",
+      "description": "a sub-component for a single question-answer pair",
       "fields": [
         {
           "id": "question",
@@ -375,8 +375,8 @@
         }
       },
       "displayField": "title",
-      "name": "Footer Navigation",
-      "description": "",
+      "name": "⚛️ Footer Navigation",
+      "description": "a component for organizing menu items in the footer",
       "fields": [
         {
           "id": "title",
@@ -461,8 +461,8 @@
         }
       },
       "displayField": "title",
-      "name": "Footer Text",
-      "description": "",
+      "name": "⚛️ Footer Text",
+      "description": "a sub-component for authoring info in the footer",
       "fields": [
         {
           "id": "image",
@@ -570,8 +570,8 @@
         }
       },
       "displayField": "title",
-      "name": "Feature Item",
-      "description": null,
+      "name": "⚛️ Feature Item",
+      "description": "a component for displaying a text-image combo with optional CTA buttons",
       "fields": [
         {
           "id": "title",
@@ -690,8 +690,8 @@
         }
       },
       "displayField": "name",
-      "name": "Form Field",
-      "description": null,
+      "name": "⚛️ Form Field",
+      "description": "a sub-component for managing form fields",
       "fields": [
         {
           "id": "input_type",
@@ -825,8 +825,8 @@
         }
       },
       "displayField": "title",
-      "name": "Footer Form",
-      "description": "",
+      "name": "⚛️ Footer Form",
+      "description": "Sign up form embedded in the footer",
       "fields": [
         {
           "id": "title",
@@ -966,8 +966,8 @@
         }
       },
       "displayField": "content",
-      "name": "Footer Configuration",
-      "description": null,
+      "name": "🎛️ Footer Configuration",
+      "description": "",
       "fields": [
         {
           "id": "sections",
@@ -1109,8 +1109,8 @@
         }
       },
       "displayField": "logo_img_alt",
-      "name": "Header Configuration",
-      "description": null,
+      "name": "🎛️ Header Configuration",
+      "description": "",
       "fields": [
         {
           "id": "logo_img",
@@ -1218,8 +1218,8 @@
         }
       },
       "displayField": "title",
-      "name": "Site Configuration",
-      "description": null,
+      "name": "🎛 Site Configuration",
+      "description": "",
       "fields": [
         {
           "id": "title",
@@ -1377,8 +1377,8 @@
         }
       },
       "displayField": "title",
-      "name": "Pricing Plan",
-      "description": null,
+      "name": "⚛️ Pricing Plan",
+      "description": "a sub-component for a single column in the pricing table",
       "fields": [
         {
           "id": "title",
@@ -1507,8 +1507,8 @@
         }
       },
       "displayField": "author",
-      "name": "Review Item",
-      "description": null,
+      "name": "⚛️ Review Item",
+      "description": "a review sub-component",
       "fields": [
         {
           "id": "author",
@@ -1605,8 +1605,8 @@
         }
       },
       "displayField": "title",
-      "name": "Contact Section",
-      "description": null,
+      "name": "💎 Contact Section",
+      "description": "a component for managing the contact form and its labels",
       "fields": [
         {
           "id": "title",
@@ -1785,8 +1785,8 @@
         }
       },
       "displayField": "title",
-      "name": "Posts List",
-      "description": null,
+      "name": "💎 Posts List",
+      "description": "a component for automatically featuring the 3 latest blog posts",
       "fields": [
         {
           "id": "title",
@@ -1888,8 +1888,8 @@
         }
       },
       "displayField": "title",
-      "name": "Landing Page",
-      "description": null,
+      "name": "📄 Landing Page",
+      "description": "a container for publishing landing pages",
       "fields": [
         {
           "id": "title",
@@ -2013,8 +2013,8 @@
         }
       },
       "displayField": "title",
-      "name": "Page",
-      "description": null,
+      "name": "📄 Page",
+      "description": "a container for publishing pages",
       "fields": [
         {
           "id": "title",
@@ -2153,8 +2153,8 @@
         }
       },
       "displayField": "first_name",
-      "name": "Person",
-      "description": null,
+      "name": "👤 Person",
+      "description": "a component for the author bio",
       "fields": [
         {
           "id": "first_name",
@@ -2251,8 +2251,8 @@
         }
       },
       "displayField": "title",
-      "name": "Post",
-      "description": null,
+      "name": "📄 Post",
+      "description": "a container for publishing blog posts",
       "fields": [
         {
           "id": "title",
@@ -2453,8 +2453,8 @@
         }
       },
       "displayField": "title",
-      "name": "Content Section",
-      "description": null,
+      "name": "💎 Content Section",
+      "description": "a component for displaying text and image side by side",
       "fields": [
         {
           "id": "title",
@@ -2601,8 +2601,8 @@
         }
       },
       "displayField": "title",
-      "name": "Call to Action Section",
-      "description": null,
+      "name": "💎 Call to Action Section",
+      "description": "CTA component for highlighting promotions",
       "fields": [
         {
           "id": "title",
@@ -2709,8 +2709,8 @@
         }
       },
       "displayField": "title",
-      "name": "FAQ Section",
-      "description": null,
+      "name": "💎 FAQ Section",
+      "description": "a component for displaying a collapsible list of questions",
       "fields": [
         {
           "id": "title",
@@ -2834,8 +2834,8 @@
         }
       },
       "displayField": "title",
-      "name": "Hero Section",
-      "description": null,
+      "name": "💎 Hero Section",
+      "description": "",
       "fields": [
         {
           "id": "title",
@@ -2965,8 +2965,8 @@
         }
       },
       "displayField": "title",
-      "name": "Features Section",
-      "description": null,
+      "name": "💎 Features Section",
+      "description": "a component for rolling up individual features",
       "fields": [
         {
           "id": "title",
@@ -3090,8 +3090,8 @@
         }
       },
       "displayField": "name",
-      "name": "Page meta data Extra",
-      "description": "",
+      "name": "⚛️ Page meta data Extra",
+      "description": "Model for 'extra' field used in 'stackbit_page_meta' mode",
       "fields": [
         {
           "id": "name",
@@ -3187,8 +3187,8 @@
         }
       },
       "displayField": "title",
-      "name": "Pricing Section",
-      "description": null,
+      "name": "💎 Pricing Section",
+      "description": "a component for comparing pricing plans side by side",
       "fields": [
         {
           "id": "title",
@@ -3312,8 +3312,8 @@
         }
       },
       "displayField": "title",
-      "name": "Reviews Section",
-      "description": null,
+      "name": "💎 Reviews Section",
+      "description": "a component for displaying reviews and testimonials",
       "fields": [
         {
           "id": "title",
@@ -3437,8 +3437,8 @@
         }
       },
       "displayField": "title",
-      "name": "Page meta data",
-      "description": null,
+      "name": "🗂️ Page meta data",
+      "description": "a component for managing SEO metadata",
       "fields": [
         {
           "id": "title",
@@ -9022,11 +9022,11 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "hero"
-        },
         "title": {
           "en-US": "This Is A Big Hero Headline"
+        },
+        "section_id": {
+          "en-US": "hero"
         },
         "content": {
           "en-US": "Azimuth is the perfect theme for developers, designers and entrepreneurs who need a sleek, modern SaaS site."
@@ -10679,11 +10679,11 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "features"
-        },
         "title": {
           "en-US": "The Best Features of Your Services"
+        },
+        "section_id": {
+          "en-US": "features"
         },
         "content": {
           "en-US": "Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur lobortis.\n\n* Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n* Ut eu nunc at diam fringilla fringilla eu ut massa.\n* Phasellus ut enim non lorem venenatis rutrum.\n\nMollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor sed justo tempor condimentum."
@@ -14039,14 +14039,14 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "call-to-action"
-        },
         "title": {
           "en-US": "This Is Call to Action Block!"
         },
         "subtitle": {
           "en-US": "This is an optional description for the call to action block."
+        },
+        "section_id": {
+          "en-US": "call-to-action"
         },
         "actions": {
           "en-US": [
@@ -15338,11 +15338,11 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "contact"
-        },
         "title": {
           "en-US": "Contact"
+        },
+        "section_id": {
+          "en-US": "contact"
         },
         "content": {
           "en-US": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula."
@@ -18579,14 +18579,14 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "pricing"
-        },
         "title": {
           "en-US": "Pricing Plans"
         },
         "subtitle": {
           "en-US": "You can have a separate pricing page or list everything on the home page."
+        },
+        "section_id": {
+          "en-US": "pricing"
         },
         "background": {
           "en-US": "gray"
@@ -23610,14 +23610,14 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "features"
-        },
         "title": {
           "en-US": "Features"
         },
         "subtitle": {
           "en-US": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus."
+        },
+        "section_id": {
+          "en-US": "features"
         },
         "background": {
           "en-US": "gray"
@@ -23795,14 +23795,14 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "faq"
-        },
         "title": {
           "en-US": "Frequently Asked Questions"
         },
         "subtitle": {
           "en-US": "Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet."
+        },
+        "section_id": {
+          "en-US": "faq"
         },
         "background": {
           "en-US": "gray"
@@ -24429,14 +24429,14 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "reviews"
-        },
         "title": {
           "en-US": "Testimonials"
         },
         "subtitle": {
           "en-US": "Aliquam malesuada ligula eget est fringilla blandit. Integer finibus semper libero id sodales."
+        },
+        "section_id": {
+          "en-US": "reviews"
         },
         "background": {
           "en-US": "white"
@@ -24597,14 +24597,14 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "call-to-action"
-        },
         "title": {
           "en-US": "This Is Call To Action Block!"
         },
         "subtitle": {
           "en-US": "This is an optional description for the call to action block."
+        },
+        "section_id": {
+          "en-US": "call-to-action"
         },
         "actions": {
           "en-US": [
@@ -24678,11 +24678,11 @@
         }
       },
       "fields": {
-        "section_id": {
-          "en-US": "recent-posts"
-        },
         "title": {
           "en-US": "Latest Posts"
+        },
+        "section_id": {
+          "en-US": "recent-posts"
         },
         "background": {
           "en-US": "gray"
